@@ -421,6 +421,13 @@ NO MORE TABLES!! ;)
 	}
 }
 
+#map {
+	width: 100%;
+	height: 400px;
+}
+
+.top-buffer { margin-top:28px; }
+
 
 
 

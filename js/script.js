@@ -43,12 +43,33 @@ $(document).ready(function() {
 			itemsDesktopSmall : [979,3]
 		});
 
-		// OwlCarousel N2
-		$("#owl-demo-1").owlCarousel({
-			  navigation : false, // Show next and prev buttons
-				autoPlay: 5000,
-			  singleItem:true
-		});
+	// OwlCarousel N2
+	$("#owl-demo-1").owlCarousel({
+		navigation : false, // Show next and prev buttons
+		autoPlay: 5000,
+		singleItem:true
+	});
+
+	// OwlCarousel N2
+	$("#owl-demo-2").owlCarousel({
+		navigation : false, // Show next and prev buttons
+		autoPlay: 5000,
+		singleItem:true
+	});
+
+	// OwlCarousel N2
+	$("#owl-demo-3").owlCarousel({
+		navigation : false, // Show next and prev buttons
+		autoPlay: 5000,
+		singleItem:true
+	});
+
+	// OwlCarousel N2
+	$("#owl-demo-4").owlCarousel({
+		navigation : false, // Show next and prev buttons
+		autoPlay: 5000,
+		singleItem:true
+	});
 
 		//SmothScroll
 		$('a[href*=#]').click(function() {
