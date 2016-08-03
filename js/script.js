@@ -23,6 +23,10 @@ $(document).ready(function() {
 		$(".img_scroll").hover(function () {
 			$(this).toggleClass("animated infinite bounce");
 		});
+
+		//$(".summary-item").hover(function () {
+		//	$(this).toggleClass("animated pulse");
+		//});
 		
 		//Wow Animation DISABLE FOR ANIMATION MOBILE/TABLET
 		wow = new WOW(
